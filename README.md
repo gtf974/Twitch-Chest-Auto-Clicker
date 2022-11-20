@@ -1,7 +1,7 @@
 # Twitch Chest Auto Clicker
 ## _A simple script to auto click the chest_
 
-Dillinger is a simple script to automatically click on the chest when it appears.
+This is a simple script to automatically click on the chest when it appears.
 
 ## Code
 
